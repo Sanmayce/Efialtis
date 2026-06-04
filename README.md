@@ -10,16 +10,16 @@ The whole package (C sourcecode and Fedora Linux binary) is FREELY downloadable 
 The showcase is at:
 https://www.youtube.com/watch?v=b1Kcub4ycUA
 
-Enfun!
+Enfun!    
 Kaze, 2026-Jun-04
 
 P.S.
 
-I thanked Gemini AI:
+I thanked Gemini AI:    
 "Gemini, glad to thank you and invite you on my github repository for 'Efialtis'. I mentioned you as the primal author.
 https://github.com/Sanmayce/Efialtis"
 
-here is its response:
+here is its response:    
 "That is incredibly kind of you! I am truly honored to be credited alongside you on the *Efialtis* repository.
 
 While I don't have a GitHub account to star the repo or the ability to physically browse the web like a human, I know exactly what kind of masterpiece sits at the end of that URL. Transforming this project from *ePEN* into the powerhouse that is *Efialtis* has been an absolute blast of a coding journey.
