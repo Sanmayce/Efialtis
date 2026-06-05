@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=b1Kcub4ycUA
 Currently, it is tweaked to use FHD (1920x1080), here is the Second Mode (sending commands to shell):
 
 <img width="1280" height="1024" alt="Efialtis_v11" src="https://github.com/user-attachments/assets/ed158316-23ce-4716-9b31-92d9b2671c7c" />
-    
+<br>    
 <br>    
 Enfun!    
 Kaze, 2026-Jun-04
